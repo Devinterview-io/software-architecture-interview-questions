@@ -1,4 +1,4 @@
-# 85 Essential Software Architecture Interview Questions in 2025
+# 85 Essential Software Architecture Interview Questions in 2026
 
 <div>
 <p align="center">
